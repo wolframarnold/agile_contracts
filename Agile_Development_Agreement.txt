@@ -1,0 +1,215 @@
+﻿Development Agreement
+
+
+This "Agreement" is made between _________________ (the "Client") with a principal place of business at ____________ and _________________ (the "Consultant") with a principal place of business at ___________________.
+
+
+1. Definitions 
+"Client's Business" means (description of client project here, e.g.  web software for managing the recruitment of entry-level positions from university graduates)
+
+"Open Source" means data, source code, compiled code, tools, scripts, database schemata, copyrighted content, text available under an Open Source License.
+
+"User Story" means a description of a feature or functionality for Client's Business written from the point of view of a consumer (or user) of the Client's Business and includes acceptance criteria ("Acceptance Tests") whose satisfaction is necessary and sufficient for the successful completion ("Acceptance") of said User Story.  User Stories submitted for Acceptance Testing that fail to satisfy acceptance criteria are said to be Rejected.
+
+"Release" means a working snapshot of the project released to Client or to the public on an agreed-upon distribution strategy, for example on a web server.
+
+"Deliverables" means Release, source code, design specifications, passwords and access codes to accounts for 3rd party services used or created to implement Client's Business.
+
+"Iteration" means a period of time as agreed upon by both parties herein during which Consultant will work on User Stories and at the end of which Consultant will typically make an interim Release of the project to the Client.
+
+"Story Points" are assigned to User Stories by Consultant and measures how difficult or complex they are to implement.
+
+"Velocity" measures how many Story Points Consultant can complete in a given Iteration.
+
+"Agile Software Development Principles" means a set of best practices, methodologies and process commonly known in the industry as Agile practices, as specified in Exhibit A.
+
+
+2. Consultant Services 
+Consultant will provide the following services (check all that apply):
+o implement mutually agreed upon User Stories (see Sections 3, 4)
+o advise and train Client and its staff on Agile Software Development Principles 
+o advise and train Client and its staff on Test-Driven Development 
+o advise Client on matter of business intelligence relating to Client's Business
+o mentor and train team members 
+o pair program with team members 
+o conduct product planning meetings 
+o hire technical talent 
+o other: _______________________________
+
+
+3. Iterative Development 
+Development shall proceed in Iterations.  Prior to the first Iteration, Client and Consultant shall meet for a joint planning meeting to discuss, define and prioritize User Stories for the entire project. Client shall be available for a joint planning meeting at or prior to the beginning of every subsequent Iteration to refine and re-prioritize User Stories.  Consultant shall work on User Stories in the order prioritized in the planning meeting.  Consultant shall notify Client promptly if technical or other considerations require additional User Stories or a re-ordering of existing User Stories.
+Consultant shall make a Release of the current state of development at the end of every Iteration, starting with the 3rd Iteration after commencement of this Development Agreement.  Consultant shall prepare and submit to Client release notes with every weekly Release listing completed User Stories.
+Client shall Acceptance Test completed User Stories promptly upon receipt of such Release, no later than by the end of the Iteration following the release of the User Stories to Web Server and notify Consultant promptly of the outcome of the Acceptance Test.
+
+
+4. Change Management 
+Iterative Development and Agile Software Development Principles are designed to make progress maximally transparent to Client and provide consistent opportunities for inspection and alteration.  Parties understand that both concepts thus reduce risk for both Client and Consultant.  Both parties recognize that feature scope is fluid and changes are an integral part of an evolving software project.
+Both parties acknowledge that design and functionality will emerge organically in continuous conversation between Consultant and Client to which both parties commit hereby.
+Client shall present its review, changes, comments regarding a release and the next following Iteration planning meeting.  Client agrees to re-prioritize existing User Stories and to introduce new User Stories only at Iteration planning meetings.
+Consultant agrees to accept changes to or new User Stories and changes in Story priority at the beginning of every Iteration.  Client agrees not to require changes mid-Iteration and Consultant shall in no way be required to accept changes mid-Iteration.
+User Stories shall be defined, refined or broken down at the Iteration Planning Meeting, in dialog between both parties.  Consultant will ensure in cooperation with development team that resulting User Stories are recorded and estimated in their complexity in Story Points as that time.  Client will be able to use current Velocity to predict how many Stories can reasonably expected to be completed by the end of the Iteration.
+
+
+5. Compensation & Duration 
+Client shall pay Consultant an hourly fee of _____.  Consultant commits _______ hours per week to the fulfillment of this Agreement, for a total of ________ weeks.  Consultant shall invoice client (choose one):
+o semi-monthly
+o weekly
+o other: _____________ 
+Upon delivery of the final Release, Consultant has no further obligations to the Client under this Agreement.
+
+
+6. Expenses 
+Client shall reimburse Consultant for all out-of-pocket expenses incurred by Consultant in performing services under this Agreement. Such expenses include, but are not limited, to
+
+a. third-party charges Consultant incurs on behalf of Client in fulfillment of Services under this Agreement, including but not limited to, Web Server hosting charges, fees for third-party project and source code management tools, payment systems fees, other 3rd party service fees; 
+b. travel expenses other than normal commuting, including airfares, rental vehicles, and highway mileage in Client or personal vehicles at the current IRS Standard Mileage Rate; and 
+c. other expenses resulting from the work performed under this Agreement.
+
+Consultant shall submit an itemized statement of Consultant's expenses. Client shall pay Consultant within 15 days from the date of each statement.
+
+
+7. Late Fees 
+Invoices or reimbursement requests unpaid for 30 days after invoice date shall incur a $39 late fee and accrue late interest of 10% per annum or the maximum allowed under state law from the due date until the amount is paid.
+
+
+8. Open Source Nature 
+a. Parties acknowledge that Deliverables will be composed of and contain a large number of Open Source components, including but not limited to frameworks, tools, methodologies, Ruby on Rails plug-ins and third party source code and documentation associated therewith. Examples of such Open Source components might include patches and enhancements to open source libraries, such as the Ruby on Rails framework itself, and/or numerous Ruby
+Gems, plug-ins, Javascript libraries available from third parties, contributions to which are generally-accepted practice in the open-source world. 
+b. Client acknowledges that the use of Open Source is an integral and essential part of this Agreement and forms the basis for the cost calculations made herein and for velocity estimates during project Iterations. 
+c. Client acknowledges that Open Source components are available under a variety of licenses, some of which may require that any derivative works that use the Open Source component also become part of said Open Source license. 
+d. Client agrees that Consultant at his option may also release enhancements or modifications to Open Source components to the public, even if the specific Open Source license does not require such release. 
+e. Client understands that it owns no intellectual property rights whatsoever of any such Open Source component other than what is granted by the Open Source license of said component.
+
+
+9. Intellectual Property
+Client owns as "work made for hire" all Deliverables relating directly to Client's Business.  Open Source components used, modified or enhanced by Consultant in fulfillment of this Agreement as defined in Section 8.a. remain Open Source under their respective licenses.  Nothing in this agreement shall prevent Consultant from engaging in similar projects for present of future clients.
+
+
+14. Consultant Representations and Warranties 
+THE DELIVERABLES FURNISHED UNDER THIS AGREEMENT IS PROVIDED ON AN AS "AS IS" BASIS, WITHOUT ANY WARRANTIES OR REPRESENTATIONS EXPRESS, IMPLIED OR STATUTORY; INCLUDING, WITHOUT LIMITATION, WARRANTIES OF QUALITY, PERFORMANCE, NONINFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. NOR ARE THERE ANY WARRANTIES CREATED BY A COURSE OF DEALING, COURSE OF PERFORMANCE OR TRADE USAGE. CONSULTANT DOES NOT WARRANT THAT THE OPERATION OF THE DELIVERABLES WILL BE CONTINUAL, UNINTERRUPTED OR ERROR FREE. THE FOREGOING EXCLUSIONS AND DISCLAIMERS ARE AN ESSENTIAL PART OF THIS AGREEMENT.
+
+
+16. Limitation of Consultant's Liability to Client 
+a.In no event shall Consultant be liable to Client for lost profits of Client, or special or consequential damages, even if Consultant has been advised of the possibility of such damages. 
+b.Consultant's total liability under this Agreement for damages, costs and expenses, regardless of cause, shall not exceed the total amount of fees paid to Consultant by Client under this Agreement. 
+c.Consultant shall not be liable for any claim or demand made against Client by any third party. 
+d.Client shall indemnify Consultant against all claims, liabilities and costs, including reasonable attorney fees, of defending any third party claim or suit arising out of the use of the Deliverables.  Consultant shall promptly notify Client in writing of any third party claim or suit and Client shall have the right to fully control the defense and any settlement of such claim or suit.
+
+
+17. Client Representations and Warranties 
+Client represents and warrants to Consultant as follows:
+Client has the authority to enter into and perform its obligations under this Agreement;
+Client has or will obtain all necessary and appropriate rights and licenses to grant the license to Consultant to use content related to Client's Business for the Deliverables;
+Client will indemnify Consultant from any third‑party claims resulting in losses, damages, liabilities, costs, charges, and expenses, including reasonable attorney fees, arising out of any breach of any of Client's representations and warranties contained in this Agreement. For such indemnification to be effective, however, Consultant must give Client prompt written notice of any such claim and provide Client such reasonable cooperation and assistance as Client may request in the defense of such suit. Client will have sole control over any such suit or proceeding.
+
+
+18. Confidentiality 
+Confidentiality: During the term of this Agreement and for 2 years afterward, Consultant will use reasonable care to prevent the unauthorized use or dissemination of Client's confidential information. Reasonable care means at least the same degree of care Consultant uses to protect its own confidential information from unauthorized disclosure.
+Confidential information is limited to information clearly marked as confidential, or disclosed orally that is treated as confidential when disclosed and summarized and identified as confidential in a writing delivered to Consultant within 15 days of disclosure.
+Confidential information does not include information that:
+* the Consultant knew before Client disclosed it; 
+* is or becomes public knowledge through no fault of Consultant; 
+* Consultant obtains from sources other than Client who owe no duty of confidentiality to Client; or 
+* Consultant develops independently. 
+
+19. Term of Agreement 
+This Agreement commences on the date it is executed and shall continue as defined in Section 5, or until earlier terminated by one party under the terms of this Agreement.
+
+
+20. Termination of Agreement 
+Each party shall have the right to terminate this Agreement by written notice to the other if a party has materially breached any obligation herein and such breach remains uncured for a period of 30 days after written notice of such breach is sent to the other party.
+If Consultant terminates this Agreement because of Client's default, all of the following shall apply:
+
+a. Client shall immediately cease use of the Deliverables; 
+b. Client shall, within 10 days of such termination, deliver to Consultant all copies and portions of materials and documentation in its possession furnished by Consultant under this Agreement; 
+c. All amounts payable or accrued to Consultant under this Agreement shall become immediately due and payable; and 
+d. All rights and licenses granted to Client under this Agreement shall immediately terminate.
+
+
+21. Taxes 
+The charges included here do not include taxes. If Consultant is required to pay any federal, state or local sales, use, property or value added taxes based on the services provided under this Agreement, the taxes shall be separately billed to Client. Consultant shall not pay any interest or penalties incurred due to late payment or nonpayment of such taxes by Client.
+
+
+22. Consultant an Independent Contractor 
+Consultant is an independent contractor, and neither Consultant nor Consultant's staff is, or shall be deemed, Client's employees. In its capacity as an independent contractor, Consultant agrees and represents, and Client agrees, as follows:
+
+a. Consultant has the right to perform services for others during the term of this Agreement subject to noncompetition provisions set out in this Agreement, if any. 
+b. Consultant has the sole right to control and direct the means, manner and method by which the services required by this Agreement will be performed. 
+c. Consultant has the right to perform the services required by this Agreement at any place or location and at such times as Consultant may determine. 
+d. Consultant will furnish all equipment and materials used to provide the services required by this Agreement. 
+e. Client shall not provide insurance coverage of any kind for Consultant or Consultant's staff. 
+f. Client shall not withhold from Consultant's compensation any amount that would normally be withheld from an employee's pay. 
+
+23. Disputes 
+If a dispute arises, the parties will try in good faith to settle it through mediation conducted by:_____________________________ OR a mediator to be mutually selected.
+The parties will share the costs of the mediator equally. Each party will cooperate fully and fairly with the mediator and will attempt to reach a mutually satisfactory compromise to the dispute.
+If the dispute is not resolved within 30 days after it is referred to the mediator, it will be arbitrated by: ________________________ OR an arbitrator to be mutually selected. Judgment on the arbitration award may be entered in any court that has jurisdiction over the matter. The arbitrator will allocate costs of arbitration, including attorney fees.
+
+
+24. Attorney Fees and Expenses 
+If there is litigation, the prevailing party may collect from the other party its reasonable costs and attorney fees incurred in enforcing this Agreement.
+
+
+25. Survival 
+The provisions of Sections 16 through 18 (Limitation of Consultant's Liability to Client,  Client Representations and Warranties, Confidentiality) will survive any termination of this Agreement.
+
+
+26. General Provisions 
+a. Complete Agreement: This Agreement and all exhibits, appendices or other attachments, which are incorporated herein by reference, form the complete and entire Agreement between the parties. This Agreement supersedes all prior understandings, agreements and documentation relating to such subject matter. In the event of a conflict between the provisions of the main body of the Agreement and any attached exhibits, appendices or other materials, the Agreement shall take precedence. 
+b. Modifications to Agreement: Modifications and amendments to this Agreement, including any exhibit or appendix hereto, shall be enforceable only if they are in writing and are signed by authorized representatives of both parties. 
+c. Applicable law: This Agreement will be governed by the laws of   Jurisdiction, e.g. the State of California.   
+d. Notices: All notices and other communications given in connection with this Agreement shall be in writing and shall be deemed given as follows:
+
+When delivered personally to the recipient's address as appearing in the introductory paragraph to this Agreement; 
+Three days after being deposited in the United States mails, postage prepaid to the recipient's address as appearing in the introductory paragraph to this Agreement; or 
+When sent by fax or electronic mail. Notice is effective upon receipt provided that a duplicate copy of the notice is promptly given by first-class or certified mail, or the recipient delivers a written confirmation of receipt. 
+a. No Agency: Nothing contained herein will be construed as creating any agency, partnership, joint venture or other form of joint enterprise between the parties. 
+b. Assignment: The rights and obligations under this Agreement are freely assignable by either party. Client shall retain the obligation to pay if the assignee fails to pay as required by this Agreement. 
+c. Successors and Assigns: This agreement binds and benefits the heirs, successors and assigns of the parties. 
+d. Severability: If a court finds any provision of this Agreement invalid or unenforceable, the remainder of this Agreement will be interpreted so as best to carry out the parties' intent.
+
+
+26. Signatures 
+Each party represents and warrants that on this date they are duly authorized to bind their respective principals by their signatures below.
+
+Client
+Name of Business: ______________________________________
+a ______________________________
+
+____________________________________________
+(Signature)
+______________________
+(Typed or Printed Name)
+Title: ______________________
+Date: ______________________
+Address:    __________________
+__________________
+
+Consultant
+Name of Business: ______________________________________
+a ______________________________
+
+____________________________________________
+(Signature)
+______________________
+(Typed or Printed Name)
+Title: ______________________
+Date: ______________________
+Address:    __________________
+__________________
+
+
+  
+Exhibit A
+
+Agile Software Development Principles
+
+
+
+Agile Software Development Principles are an industry standard approach to developing and maintaining software projects. There are four key tenets to the Agile Manifesto as publicized by the www.agilemanifesto.org: 
+Individuals and interactions over processes and tools 
+Working software over comprehensive documentation 
+Customer collaboration over contract negotiation 
+Responding to change over following a plan 
+
